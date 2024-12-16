@@ -1,0 +1,14 @@
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.AssemblyInfo.cs
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\bin\Debug\net8.0\Sithelosethu_CalculatorApp.exe
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\bin\Debug\net8.0\Sithelosethu_CalculatorApp.deps.json
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\bin\Debug\net8.0\Sithelosethu_CalculatorApp.runtimeconfig.json
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\bin\Debug\net8.0\Sithelosethu_CalculatorApp.dll
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\bin\Debug\net8.0\Sithelosethu_CalculatorApp.pdb
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.dll
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\refint\Sithelosethu_CalculatorApp.dll
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.pdb
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\Sithelosethu_CalculatorApp.genruntimeconfig.cache
+C:\Users\ndebe_91p\source\repos\Sithelosethu_CalculatorApp\Sithelosethu_CalculatorApp\obj\Debug\net8.0\ref\Sithelosethu_CalculatorApp.dll
